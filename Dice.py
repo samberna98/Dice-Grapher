@@ -1,3 +1,8 @@
+#  File: Dice.py
+#  Description: Program that simulates two dice rolls and tabulates the combined results on a graph
+#  Date Created: 9/10/17
+#  Date Last Modified: 9/11/17
+
 import random
 
 def round(x, t):
@@ -62,4 +67,3 @@ def main():
 main()
         
         
-
